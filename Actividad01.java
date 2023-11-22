@@ -98,26 +98,26 @@ class Library {
 
     // Método para agregar la lista completa de libros
     public void addCompleteBookList() {
-        addBook("Cien años de soledad", "Gabriel García Márquez", "gabriel@example.com", 'M', 200, 400);
-        addBook("El señor de los anillos (Trilogía)", "J. R. R. Tolkien", "tolkien@example.com", 'M', 1500, 1200);
-        addBook("1984", "George Orwell", "orwell@example.com", 'M', 500, 300);
-        addBook("Un mundo feliz", "Aldous Huxley", "huxley@example.com", 'M', 320, 500);
-        addBook("Orgullo y prejuicio", "Jane Austen", "austen@example.com", 'F', 130, 700);
-        addBook("Crimen y castigo", "Fiódor Dostoyevski", "dostoyevski@example.com", 'M', 230, 540);
-        addBook("Lolita", "Vladimir Nabokov", "nabokov@example.com", 'M', 140, 456);
+        addBook("Cien años de soledad", "Gabriel García Márquez", "gabriel@gmail.com", 'M', 200, 400);
+        addBook("El señor de los anillos (Trilogía)", "J. R. R. Tolkien", "tolkien@gmail.com", 'M', 1500, 1200);
+        addBook("1984", "George Orwell", "orwell@gmail.com", 'M', 500, 300);
+        addBook("Un mundo feliz", "Aldous Huxley", "huxley@gmail.com", 'M', 320, 500);
+        addBook("Orgullo y prejuicio", "Jane Austen", "austen@gmail.com", 'F', 130, 700);
+        addBook("Crimen y castigo", "Fiódor Dostoyevski", "dostoyevski@gmail.com", 'M', 230, 540);
+        addBook("Lolita", "Vladimir Nabokov", "nabokov@gmail.com", 'M', 140, 456);
         addBook("Ulises", "James Joyce", "joyce@example.com", 'M', 158, 400);
-        addBook("Madame Bovary", "Gustave Flaubert", "flaubert@example.com", 'M', 120, 430);
-        addBook("En busca del tiempo perdido", "Marcel Proust", "proust@example.com", 'M', 345, 450);
-        addBook("Don Quijote de la Mancha", "Miguel de Cervantes", "cervantes@example.com", 'M', 340, 123);
-        addBook("El retrato de Dorian Gray", "Oscar Wilde", "wilde@example.com", 'M', 125, 67);
-        addBook("El Principito", "Antoine de Saint-Exupéry", "exupery@example.com", 'M', 259, 345);
-        addBook("El ruido y la furia", "William Faulkner", "faulkner@example.com", 'M', 134, 246);
-        addBook("Los viajes de Gulliver", "Jonathan Swift", "swift@example.com", 'M', 186, 234);
-        addBook("Memorias de una geisha", "Arthur Golden", "golden@example.com", 'M', 195, 234);
-        addBook("Los juegos del hambre", "Suzanne Collins", "collins@example.com", 'F', 181, 234);
-        addBook("Harry Potter y la piedra filosofal", "J. K. Rowling", "rowling@example.com", 'F', 650, 4000);
-        addBook("Los miserables", "Victor Hugo", "hugo@example.com", 'M', 23, 245);
-        addBook("Las crónicas de Narnia", "C. S. Lewis", "lewis@example.com", 'M', 456, 444);
+        addBook("Madame Bovary", "Gustave Flaubert", "flaubert@gmail.com", 'M', 120, 430);
+        addBook("En busca del tiempo perdido", "Marcel Proust", "proust@gmail.com", 'M', 345, 450);
+        addBook("Don Quijote de la Mancha", "Miguel de Cervantes", "cervantes@gmail.com", 'M', 340, 123);
+        addBook("El retrato de Dorian Gray", "Oscar Wilde", "wilde@gmail.com", 'M', 125, 67);
+        addBook("El Principito", "Antoine de Saint-Exupéry", "exupery@gmail.com", 'M', 259, 345);
+        addBook("El ruido y la furia", "William Faulkner", "faulkner@gmail.com", 'M', 134, 246);
+        addBook("Los viajes de Gulliver", "Jonathan Swift", "swift@gmail.com", 'M', 186, 234);
+        addBook("Memorias de una geisha", "Arthur Golden", "golden@gmail.com", 'M', 195, 234);
+        addBook("Los juegos del hambre", "Suzanne Collins", "collins@gmail.com", 'F', 181, 234);
+        addBook("Harry Potter y la piedra filosofal", "J. K. Rowling", "rowling@gmail.com", 'F', 650, 4000);
+        addBook("Los miserables", "Victor Hugo", "hugo@gmail.com", 'M', 23, 245);
+        addBook("Las crónicas de Narnia", "C. S. Lewis", "lewis@gmail.com", 'M', 456, 444);
     }
 }
 
